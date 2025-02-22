@@ -31,7 +31,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         }
         
         $petShop->addProduct($id, $name, $category, $price, $photoPath);
-        header("Location: index.php");
         exit();
     } 
     elseif (isset($_POST['get_product'])) {
