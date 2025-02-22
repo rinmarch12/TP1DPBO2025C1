@@ -5,12 +5,12 @@ Saya Ririn Marchelina dengan NIM 2303662 mengerjakan Latihan Modul 1 dalam mata 
 Alur Program
 ---
 1. Program dimulai dengan menampilkan menu utama dengan 6 opsi:
-Tampilkan Produk
-Tambah Produk
-Ubah Produk
-Hapus Produk
-Cari Produk
-Keluar
+- Tampilkan Produk
+- Tambah Produk
+- Ubah Produk
+- Hapus Produk
+- Cari Produk
+- Keluar
 2. Program menggunakan loop while(true) untuk terus berjalan sampai user memilih opsi keluar (0)
 Untuk setiap opsi menu:
 Tampilkan Produk (1): Menampilkan semua produk yang tersimpan
