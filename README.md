@@ -35,5 +35,3 @@ Desain Program
 - ubahProduk()
 - hapusProduk()
 - mencariProduk()
-
-![image](https://github.com/user-attachments/assets/8eda2f10-d845-47b0-a230-7b319bf85151)
